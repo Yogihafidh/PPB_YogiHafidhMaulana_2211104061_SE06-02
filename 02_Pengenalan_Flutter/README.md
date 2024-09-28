@@ -1,16 +1,15 @@
-Jelaskan apa itu Dart & Flutter beserta contoh widget yang ada pada
-Flutter.
+Jelaskan apa itu Dart & Flutter beserta contoh widget yang ada pada Flutter.
 
+# Dart
 Dart adalah bahasa pemrograman yang dikembangkan oleh Google. Awalnya dirilis pada tahun 2011, Dart dirancang untuk mengembangkan aplikasi frontend yang berjalan di berbagai platform, terutama aplikasi web, mobile, dan desktop. Dart adalah bahasa yang statically-typed dan object-oriented dengan fitur mirip bahasa modern seperti JavaScript, Swift, atau Kotlin.
 
 Fitur Utama Dart:
-
 Compilable ke JavaScript: Dart dapat dikompilasi menjadi JavaScript untuk aplikasi web.
 Strong typing: Sistem tipe yang kuat membantu mengurangi kesalahan runtime.
 Asynchronous programming: Dart memiliki fitur async dan await untuk menangani operasi asinkron.
 Cross-platform: Bahasa yang mendukung pengembangan aplikasi lintas platform seperti mobile, desktop, web, dan server-side.
 
-Apa itu Flutter?
+# Apa itu Flutter?
 Flutter adalah framework UI open-source yang dikembangkan oleh Google, digunakan untuk membuat aplikasi natively compiled dari satu codebase, artinya dapat digunakan untuk mengembangkan aplikasi mobile (iOS dan Android), web, dan desktop sekaligus. Flutter menggunakan bahasa Dart sebagai basis kode untuk mempermudah pengembangan lintas platform dengan performa tinggi dan tampilan yang konsisten.
 
 Keunggulan Flutter:
